@@ -1,0 +1,22 @@
+/*custom CSS*/
+
+body{
+    font-family: "Helvetica Neue" , Helvetica, Arial,sans-serif;
+}
+.jumbotron{
+    background: url("dist/img/banjo.jpg") bottom center no-repeat;
+    color: white;
+}
+#cover-container{
+    max-width: 40rem;
+    background: rgba(255,255,255,0.2);
+    padding: 2rem;
+}
+#main-footer{
+    background: black;
+    color: white;
+}
+.container-album{
+    padding: 48px 0px;
+    background: #f8f9fa!important;
+}
